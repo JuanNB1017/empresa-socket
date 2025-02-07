@@ -66,3 +66,8 @@ Si el backend Laravel no está corriendo, el servidor mostrará errores al inten
 Para cambiar la configuración de los tiempos de consulta, edita el valor en la función `setInterval(() => obtenerColaboradores(), 1000);` en el código fuente.
 
 ## Autor
+
+
+## 🐝 notas
+
+En caso de quere inicializar el proyecto con los demas sistemas , primero comienza inicializando el sistema de backend, despues el sistema web y por ultimo el sistema de nodejs con el socket.io.
